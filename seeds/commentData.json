@@ -1,0 +1,39 @@
+[
+    {
+      "comment_body": "What is this guy talking about!",
+      "date_created": "January 15, 2024",
+      "user_id": 2,
+      "blogPost_id": 1
+    },
+    {
+      "comment_body": "I can see what he meant",
+      "date_created": "June 2, 2024",
+      "user_id": 3,
+      "blogPost_id": 1
+    },
+    {
+      "comment_body": "He will always be the best!",
+      "date_created": "March 18, 2024",
+      "user_id": 3,
+      "blogPost_id": 2
+    },
+    {
+      "comment_body": "What is your opinion?",
+      "date_created": "November 1, 2024",
+      "user_id": 1,
+      "blogPost_id": 2
+    },
+    {
+      "comment_body": "lol",
+      "date_created": "May 28, 2024",
+      "user_id": 2,
+      "blogPost_id": 3
+    },
+    {
+      "comment_body": "Never believe the media",
+      "date_created": "May 30, 2024",
+      "user_id": 1,
+      "blogPost_id": 3
+    }
+  ]
+  
