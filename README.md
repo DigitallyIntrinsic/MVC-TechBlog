@@ -123,7 +123,6 @@ Usage of this application is very intuitive. Users will interact with the site c
 
 Open to collaboration, if you choose to do so open an issue and modify any changes you would like to see on a feature branch and wait for approval before merging to the main branch.
 
-NOTICE: Contributor Covenant is released under the Creative Commons Attribution 4.0 International Public License, which requires that attribution be included.
 
 ## Test Instructions
 
